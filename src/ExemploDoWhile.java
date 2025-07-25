@@ -10,6 +10,7 @@ public class ExemploDoWhile {
 
         System.out.println("Alô !!!");
 
+
     }
     private static boolean tocando() {
 
